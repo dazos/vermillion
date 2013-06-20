@@ -1,0 +1,8 @@
+animals
+bosses
+bugs
+experimental
+fish
+milgram-hazards
+milgramen
+plants

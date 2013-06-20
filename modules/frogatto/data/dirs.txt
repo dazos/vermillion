@@ -1,0 +1,9 @@
+backgrounds
+compiled
+editor
+gui
+level
+objects
+object_prototypes
+shaders
+tiles

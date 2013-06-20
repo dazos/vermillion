@@ -1,0 +1,513 @@
+Frogatto engine version 1.3
+LOOKING IN 'modules/vermillion/module.cfg': 1
+EXPAND DATA PATHS
+EXPAND DATA PATHS
+SET PREFERENCES PATH: C:\Users\Hunter.WHITECOLLAR\AppData\Roaming/vermillion/
+EXPAND DATA PATHS
+Preferences dir: C:\Users\Hunter.WHITECOLLAR\AppData\Roaming/vermillion/
+get_dir(): C:\Users\Hunter.WHITECOLLAR\AppData\Roaming/vermillion/
+
+
+OpenGL vendor: NVIDIA Corporation
+OpenGL version: 4.2.0
+OpenGL extensions: GL_AMD_multi_draw_indirect GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_image_load_store GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_subroutine GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_store GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_texture_type_2_10_10_10_REV GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_alpha_test GL_NV_blend_minmax GL_NV_blend_square GL_NV_complex_primitives GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_ES1_1_compatibility GL_NV_explicit_multisample GL_NV_fbo_color_attachments GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragdepth GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_buffer_load GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_expand_normal GL_NV_texture_lod_clamp GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_OES_compressed_paletted_texture GL_OES_depth24 GL_OES_depth32 GL_OES_depth_texture GL_OES_element_index_uint GL_OES_fbo_render_mipmap GL_OES_get_program_binary GL_OES_mapbuffer GL_OES_packed_depth_stencil GL_OES_point_size_array GL_OES_point_sprite GL_OES_rgb8_rgba8 GL_OES_read_format GL_OES_standard_derivatives GL_OES_texture_3D GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_texture_npot GL_OES_vertex_array_object GL_OES_vertex_half_float GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+GLSL Version: 4.20 NVIDIA via Cg compiler
+
+Stencil bits: 8
+JOYSTICKS: 0
+initialized ttf
+initialized 0 joysticks
+SDL_GetVideoSurface()
+LOADTEXTURE: backgrounds/loading_screen.png -> 02FB4CD0
+failed to load image 'splash.jpg'
+LOADING FONT: data/fonts.cfg -> modules/frogatto/data/fonts.cfg
+LOADTEXTURE: gui/number_font.png -> 02FB4918
+LOADTEXTURE: gui/outline_font.png -> 02FB48A8
+LOADTEXTURE: gui/label_font.png -> 02FB4AD8
+LOADTEXTURE: gui/dialog-font.png -> 02FB4838
+CREATE OBJ: frogatto_playable
+LOADTEXTURE: characters/frogatto-spritesheet1.png -> 10BC5708
+LOADTEXTURE: characters/fat-frogatto-spritesheet1.png -> 10BE1C60
+LOADTEXTURE: characters/frogatto-spritesheet5.png -> 10BE2018
+LOADTEXTURE: characters/frogatto-spritesheet2.png -> 10BE2FD8
+LOADTEXTURE: characters/frogatto-spritesheet3.png -> 10BE4190
+LOADTEXTURE: characters/frogatto-spritesheet4.png -> 10BE47B0
+LOADTEXTURE: characters/frogatto-spritesheet-idle.png -> 10C98E08
+LOADTEXTURE: props/items.png -> 10C99070
+LOADTEXTURE: characters/frogatto-tongueB.png -> 10C99690
+LOADTEXTURE: effects/particles2.png -> 10C9BB18
+LOADTEXTURE: effects/powerup-fx.png -> 10CF7C50
+LOADTEXTURE: effects/homing-shot-init.png -> 10CF7E48
+LOADTEXTURE: effects/homing-shot-impact.png -> 10CF7F28
+LOADTEXTURE: characters/fat-frogatto-spritesheet3.png -> 1125D338
+LOADTEXTURE: characters/fat-frogatto-spritesheet4.png -> 1125D5D8
+LOADTEXTURE: gui/editor-tools.png -> 11414838
+LOADTEXTURE: gui/buttons-and-windows.png -> 11414AA0
+LOADTEXTURE: gui/window-resize-grip.png -> 11414AD8
+LOADTEXTURE: gui/iphone_controls4.png -> 11414D40
+LOADTEXTURE: gui/ipad_controls.png -> 11414DB0
+LOADTEXTURE: gui/inventory.png -> 11414E58
+LOADTEXTURE: gui/dialog.png -> 11414EC8
+LOADTEXTURE: gui/dialog_font.png -> 11414E20
+LOADTEXTURE: gui/hud.png -> 11414F70
+LOADTEXTURE: gui/dialogue-box.png -> 11414FE0
+LOADTEXTURE: gui/achievement-background.png -> 11414F38
+TEST absolute_path_test1 PASSED
+TEST array_index PASSED
+TEST base64_decode PASSED
+TEST base64_encode PASSED
+TEST base64_encode_bin PASSED
+TEST color PASSED
+TEST compression_test PASSED
+TEST compute_relative_paths_test PASSED
+TEST cost_path_search_function PASSED
+TEST decimal_div PASSED
+TEST decimal_from_string PASSED
+TEST decimal_mul PASSED
+TEST decimal_output PASSED
+TEST directed_graph_function PASSED
+TEST dot_precedence PASSED
+TEST flatten_function PASSED
+TEST formula PASSED
+TEST formula_decimal PASSED
+TEST formula_fn PASSED
+TEST formula_function_default_args PASSED
+TEST formula_in PASSED
+ARGUMENT: (((x <- [0,1,2,3])))
+ARGUMENT: (((x <- [0,1,2,3])))
+ARGUMENT: (((x%2 = 1)))
+TEST formula_list_comprehension PASSED
+TEST formula_quotes PASSED
+TEST formula_slice PASSED
+TEST formula_test_recurse_sort PASSED
+TEST formula_test_recursion PASSED
+TEST formula_where_map PASSED
+TEST json_base PASSED
+TEST json_derive PASSED
+TEST json_flatten PASSED
+CALLING f...
+{
+	"value": {
+		"a": 6,
+		"b": {
+			"a": 4,
+			"z": 5
+		}
+	}
+}TEST json_macro PASSED
+TEST level_object_base64 PASSED
+TEST map_function PASSED
+TEST md5_test1 PASSED
+TEST md5_test2 PASSED
+TEST md5_test3 PASSED
+TEST md5_test4 PASSED
+TEST md5_test5 PASSED
+TEST md5_test6 PASSED
+TEST md5_test7 PASSED
+TEST min_max_decimal PASSED
+TEST modulo_operation PASSED
+TEST rect PASSED
+TEST rect_difference PASSED
+TEST rect_intersect PASSED
+TEST recursive_call_lambda PASSED
+TEST short_circuit PASSED
+TEST sqrt_function PASSED
+TEST test_regex PASSED
+TEST test_split_into_ints PASSED
+TEST tokenizer_test PASSED
+TEST variant_decimal PASSED
+TEST variant_foreach PASSED
+TEST weighted_graph_function PASSED
+TEST where_scope_function PASSED
+ALL 55 TESTS PASSED IN 69ms
+FRAME BUFFER OBJECT IS SUPPORTED
+FRAME BUFFER OBJECT IS SUPPORTED
+in level constructor...
+building...2220
+done building...2220
+LAYER -8 BUILT 0 tiles
+LAYER -5 BUILT 0 tiles
+LAYER 0 BUILT 0 tiles
+done building tile_map...2221
+done building hex_tile_map...2222
+UNVERIFIED NEW FILE: data/backgrounds/testlevel.cfg
+CREATE OBJ: dummy_gui_object
+LOADTEXTURE: gui/dummy-hud.png -> 11416B38
+LOADTEXTURE: gui/progress-bar-center.png -> 11419308
+LOADTEXTURE: gui/progress-bar-endcaps.png -> 11419420
+LOADTEXTURE: gui/progress-bar-well-center.png -> 11419730
+LOADTEXTURE: gui/progress-bar-well-endcaps.png -> 114198F0
+LOADTEXTURE: gui/iphone_controls5.png -> 114DD2F0
+LOADTEXTURE: gui/ipad_buttons.png -> 114DDD00
+LOADTEXTURE: gui/ipad_buttons_pressed.png -> 114DDEF8
+LOADTEXTURE: gui/iphone_controls.png -> 114DE390
+LOADTEXTURE: gui/iphone_controls3.png -> 114DE908
+LOADTEXTURE: gui/iphone_buttons.png -> 115357B8
+LOADTEXTURE: gui/iphone_buttons_pressed.png -> 11535A90
+done level constructor: 135
+CREATE OBJ: popsicle_ship
+LOADTEXTURE: ships/popsicle_ship.png -> 11536858
+CREATE OBJ: enemyA
+LOADTEXTURE: enemies/enemyA.png -> 11537A80
+CREATE OBJ: popsicle_missile
+SET STARTING CYCLES: 0
+CREATE OBJ: explosion_big_dusty
+LOADTEXTURE: effects/explosion3.png -> 1275A260
+LOADTEXTURE: backgrounds/testlevel.png -> 12756520
+LOADTEXTURE: statusbar.png -> 127570F0
+CREATE OBJ: effect_quickboost
+LOADTEXTURE: effects/quickboost.png -> 1275B610
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'Boost End'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'Boost End'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'Boost End'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'Boost End'
+CONSOLE: 'QB: Cooling Down...'
+BEGIN EDITOR::EDITOR
+LOADTEXTURE: tiles/arcade.png -> 1275BFB0
+LOADTEXTURE: tiles/blank.png -> 1275BCD8
+LOADTEXTURE: tiles/black_tile_overlay.png -> 1275BE28
+LOADTEXTURE: tiles/cement.png -> 1275A730
+LOADTEXTURE: tiles/cave1.png -> 1275A340
+LOADTEXTURE: tiles/cave2.png -> 1275A998
+LOADTEXTURE: tiles/cement-face.png -> 12754DB8
+LOADTEXTURE: tiles/dungeon-floor.png -> 127579B0
+LOADTEXTURE: tiles/dungeon-parallax-floor.png -> 12757E80
+LOADTEXTURE: tiles/dungeon-stairs.png -> 12757F28
+LOADTEXTURE: tiles/dungeon-pillars.png -> 12754568
+LOADTEXTURE: tiles/dungeon-walls.png -> 12754488
+LOADTEXTURE: tiles/dungeon-walls1.png -> 127567F8
+LOADTEXTURE: tiles/wooden-bridges2.png -> 127590A8
+LOADTEXTURE: tiles/forest-interiors.png -> 114A8928
+LOADTEXTURE: tiles/forest-ground1.png -> 114A8CA8
+LOADTEXTURE: tiles/forest-ground2.png -> 114A8618
+LOADTEXTURE: tiles/forest-undergrowth.png -> 114A8DF8
+LOADTEXTURE: tiles/generic.png -> 114A8B20
+LOADTEXTURE: tiles/interiors.png -> 114A8298
+LOADTEXTURE: tiles/interior-elevators.png -> 114A7CE8
+LOADTEXTURE: tiles/interiors-stairs.png -> 114A7CB0
+LOADTEXTURE: tiles/forest-leaves.png -> 114A8B58
+LOADTEXTURE: tiles/map-border.png -> 114AB440
+LOADTEXTURE: tiles/mushrooms.png -> 114AB1A0
+LOADTEXTURE: tiles/grey-rock1.png -> 114A8B90
+LOADTEXTURE: tiles/grey-rock2.png -> 114A80A0
+LOADTEXTURE: tiles/plants.png -> 114AAEC8
+LOADTEXTURE: tiles/brown-rock1.png -> 114AAF38
+LOADTEXTURE: tiles/brown-rock2.png -> 114A8CE0
+LOADTEXTURE: tiles/pipes-medium-dark.png -> 114AB050
+LOADTEXTURE: tiles/pipes-large.png -> 114A8110
+LOADTEXTURE: tiles/pipes-medium.png -> 114A7F50
+LOADTEXTURE: tiles/pipes-small.png -> 114AA2F8
+LOADTEXTURE: tiles/rail-tracks.png -> 114A9DB8
+LOADTEXTURE: tiles/dungeon-shelves.png -> 114A9F40
+LOADTEXTURE: tiles/sand.png -> 114A9ED0
+LOADTEXTURE: tiles/spikes-deadly.png -> 114ACF98
+LOADTEXTURE: tiles/brambles.png -> 114A9990
+LOADTEXTURE: tiles/forest.png -> 114AD388
+LOADTEXTURE: tiles/wooden-scaffold.png -> 114ACE80
+tile_map::load_all(): 687ms
+tileset::init(): 1ms
+in level constructor...
+building...11774
+done building...11774
+LAYER -8 BUILT 0 tiles
+LAYER -5 BUILT 0 tiles
+LAYER 0 BUILT 0 tiles
+done building tile_map...11786
+done building hex_tile_map...11786
+done level constructor: 22
+SET STARTING CYCLES: 0
+editor add tool: 0
+editor add tool: 1
+editor add tool: 2
+editor add tool: 3
+editor add tool: 4
+editor add tool: 5
+editor add tool: 6
+editor add tool: 8
+END EDITOR::EDITOR: 729ms
+EDITOR RESOLUTION MANAGER: 0, 0
+EDITOR RESOLUTION: 1200,640
+CHANGE TOOL: 0
+editor add tool: 0
+editor add tool: 1
+editor add tool: 2
+editor add tool: 3
+editor add tool: 4
+editor add tool: 5
+editor add tool: 6
+editor add tool: 8
+END FILES UPDATED: 0
+CONSOLE: 'QB: Ready'
+CHANGE TOOL: 6
+editor add tool: 0
+editor add tool: 1
+editor add tool: 2
+editor add tool: 3
+editor add tool: 4
+editor add tool: 5
+editor add tool: 6
+editor add tool: 8
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+CHECKING FOR PROTOTYPES: null
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SET FILE: modules/vermillion/data/objects/popsicle_ship.cfg
+RELOAD OBJECT: popsicle_ship -> modules/vermillion/data/objects/popsicle_ship.cfg
+CREATE OBJ: popsicle_ship
+RELOADED OBJECT IN 4ms
+UPDATED 253 OBJECTS IN 3ms
+SET FILE: modules/vermillion/data/objects/popsicle_ship.cfg
+RELOAD OBJECT: popsicle_ship -> modules/vermillion/data/objects/popsicle_ship.cfg
+CREATE OBJ: popsicle_ship
+RELOADED OBJECT IN 4ms
+UPDATED 253 OBJECTS IN 3ms
+get_dir(): modules/vermillion/data/objects
+MODIFY: modules/vermillion/data/objects/popsicle_ship.cfg
+CALLING FILE MOD HANDLER
+CREATE OBJ: popsicle_ship
+RELOADED OBJECT IN 4ms
+UPDATED 253 OBJECTS IN 4ms
+SELECT ROW: -1
+CONSOLE: 'Boost End'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'Boost End'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'Boost End'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'Boost End'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CHECKING FOR PROTOTYPES: null
+SELECT ROW: -1
+CHANGE TOOL: 6
+editor add tool: 0
+editor add tool: 1
+editor add tool: 2
+editor add tool: 3
+editor add tool: 4
+editor add tool: 5
+editor add tool: 6
+editor add tool: 8
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+CHECKING FOR PROTOTYPES: null
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+token: ()
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SET FILE: modules/vermillion/data/objects/popsicle_ship.cfg
+RELOAD OBJECT: popsicle_ship -> modules/vermillion/data/objects/popsicle_ship.cfg
+CREATE OBJ: popsicle_ship
+RELOADED OBJECT IN 5ms
+UPDATED 253 OBJECTS IN 4ms
+SELECT ROW: -1
+SELECT ROW: -1
+token: ()
+SELECT ROW: -1
+SELECT ROW: -1
+token: ()
+SELECT ROW: -1
+SELECT ROW: -1
+SET FILE: modules/vermillion/data/objects/popsicle_ship.cfg
+RELOAD OBJECT: popsicle_ship -> modules/vermillion/data/objects/popsicle_ship.cfg
+CREATE OBJ: popsicle_ship
+RELOADED OBJECT IN 5ms
+UPDATED 253 OBJECTS IN 4ms
+get_dir(): modules/vermillion/data/objects
+MODIFY: modules/vermillion/data/objects/popsicle_ship.cfg
+CALLING FILE MOD HANDLER
+CREATE OBJ: popsicle_ship
+RELOADED OBJECT IN 4ms
+UPDATED 253 OBJECTS IN 3ms
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+SELECT ROW: -1
+SELECT ROW: -1
+token: (vars)
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SET FILE: modules/vermillion/data/objects/popsicle_ship.cfg
+RELOAD OBJECT: popsicle_ship -> modules/vermillion/data/objects/popsicle_ship.cfg
+CREATE OBJ: popsicle_ship
+ASSERT FAIL: ..\..\..\frogatto\src\formula.cpp:1455 ASSERTION FAILED: Empty expression in formula
+At modules/vermillion/data/objects/popsicle_ship.cfg 68:
+..., mid_y-5, facing, set(rotate, -90)),, schedule(50, fire_event('end_boos...
+                                        ^
+
+
+SET FILE: modules/vermillion/data/objects/popsicle_ship.cfg
+RELOAD OBJECT: popsicle_ship -> modules/vermillion/data/objects/popsicle_ship.cfg
+CREATE OBJ: popsicle_ship
+RELOADED OBJECT IN 5ms
+UPDATED 253 OBJECTS IN 3ms
+get_dir(): modules/vermillion/data/objects
+MODIFY: modules/vermillion/data/objects/popsicle_ship.cfg
+CALLING FILE MOD HANDLER
+CREATE OBJ: popsicle_ship
+RELOADED OBJECT IN 4ms
+UPDATED 253 OBJECTS IN 4ms
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+token: (on_ctrl_jump)
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+SELECT ROW: -1
+CONSOLE: 'QB: Cooling Down...'
+CONSOLE: 'QB: Ready'
+MODIFY: modules/vermillion/./images/ships/popsicle_ship.png
+CALLING FILE MOD HANDLER
+FILE UPDATED: modules/vermillion/./images/ships/popsicle_ship.png
+IMAGE UPDATED: ships/popsicle_ship.png modules/vermillion/./images/ships/popsicle_ship.png
+LOADTEXTURE: ships/popsicle_ship.png -> 156BA258
+END FILES UPDATED: 1
+MODIFY: modules/vermillion/./images/ships/popsicle_ship.png
+CALLING FILE MOD HANDLER
+FILE UPDATED: modules/vermillion/./images/ships/popsicle_ship.png
+IMAGE UPDATED: ships/popsicle_ship.png modules/vermillion/./images/ships/popsicle_ship.png
+LOADTEXTURE: ships/popsicle_ship.png -> 162F6A70
+END FILES UPDATED: 1
+MODIFY: modules/vermillion/./images/ships/popsicle_ship.png
+CALLING FILE MOD HANDLER
+FILE UPDATED: modules/vermillion/./images/ships/popsicle_ship.png
+IMAGE UPDATED: ships/popsicle_ship.png modules/vermillion/./images/ships/popsicle_ship.png
+LOADTEXTURE: ships/popsicle_ship.png -> 156627A8
+END FILES UPDATED: 1
+MODIFY: modules/vermillion/./images/ships/popsicle_ship.png
+CALLING FILE MOD HANDLER
+FILE UPDATED: modules/vermillion/./images/ships/popsicle_ship.png
+IMAGE UPDATED: ships/popsicle_ship.png modules/vermillion/./images/ships/popsicle_ship.png
+LOADTEXTURE: ships/popsicle_ship.png -> 16439020
+END FILES UPDATED: 1
+MODIFY: modules/vermillion/./images/ships/popsicle_ship.png
+CALLING FILE MOD HANDLER
+FILE UPDATED: modules/vermillion/./images/ships/popsicle_ship.png
+IMAGE UPDATED: ships/popsicle_ship.png modules/vermillion/./images/ships/popsicle_ship.png
+LOADTEXTURE: ships/popsicle_ship.png -> 1565C8F0
+END FILES UPDATED: 1
+MODIFY: modules/vermillion/./images/ships/popsicle_ship.png
+CALLING FILE MOD HANDLER
+FILE UPDATED: modules/vermillion/./images/ships/popsicle_ship.png
+IMAGE UPDATED: ships/popsicle_ship.png modules/vermillion/./images/ships/popsicle_ship.png
+LOADTEXTURE: ships/popsicle_ship.png -> 15D5A230
+END FILES UPDATED: 1
+WRITE PREFS: C:\Users\Hunter.WHITECOLLAR\AppData\Roaming/vermillion/preferences.cfg
+get_dir(): C:\Users\Hunter.WHITECOLLAR\AppData\Roaming/vermillion
+Text has zero width
+invalid operation
+EXITING WITH UNVERIFIED SESSION
