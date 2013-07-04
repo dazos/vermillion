@@ -1,4 +1,0 @@
-gui
-level
-objects
-tiles

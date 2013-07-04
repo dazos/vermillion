@@ -1,3 +1,0 @@
-level
-objects
-object_templates

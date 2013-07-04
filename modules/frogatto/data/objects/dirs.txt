@@ -1,7 +1,0 @@
-effects
-enemies
-experimental
-items
-playable
-props
-props-interactive

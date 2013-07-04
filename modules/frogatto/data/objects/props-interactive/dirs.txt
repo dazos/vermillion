@@ -1,9 +1,0 @@
-hazards
-locks
-misc
-npcs
-obstacles
-platforms
-portals
-throwables
-vehicles
